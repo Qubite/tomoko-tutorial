@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/books/978-83-942488-1-9/title",
+    "value": "Fight Club"
+  }
+]
