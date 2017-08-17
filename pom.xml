@@ -6,7 +6,7 @@
 
     <groupId>io.qubite.tomoko.example</groupId>
     <artifactId>bookstore</artifactId>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <build>
         <plugins>
             <plugin>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>io.qubite.tomoko</groupId>
             <artifactId>tomoko-jackson</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.inject</groupId>
